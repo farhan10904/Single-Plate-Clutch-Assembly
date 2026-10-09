@@ -80,8 +80,6 @@ These outputs were produced for technical communication and consideration of man
 **Not demonstrated:** Physical fabrication, clutch engagement or transmitted-torque testing, thermal/friction analysis, fatigue life or quantitative mechanical validation. The project is a **CAD and assembly coursework exercise**, not a manufactured clutch.
 
 ## Related links
-
-- [Portfolio case study](https://farhan10904.github.io/engineering-portfolio/project.html?id=clutch)
 - [Engineering portfolio home](https://farhan10904.github.io/engineering-portfolio/)
 
 *The four image files used in this README belong in the repository's `Images/` folder. The images come from the original project documentation.*
